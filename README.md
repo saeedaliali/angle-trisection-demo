@@ -1,24 +1,32 @@
-# Angle Trisection Demo
+# Angle Trisection via Parabola-Circle Intersection: Interactive Model
 
-A GeoGebra-based interactive model to demonstrate the classical geometric method of trisecting an angle using a **parabola and a circular arc**.
+An interactive geometric construction demonstrating a novel method for the exact trisection of any angle using the intersection of a specially defined parabolic curve and a circular arc.
 
-## 🔍 Description
+🌐 **Live Demo:** [Click here to open the interactive model in GeoGebra](https://saeedaliali.github.io/angle-trisection-demo)
 
-This model illustrates how an arbitrary angle can be divided into three equal parts using purely geometric constructions. It is based on the intersection of a parabola and a circular arc, and visualizes each step clearly for educational and research purposes.
+## 📖 Related Academic Papers
+This interactive model accompanies the following research papers (published on Zenodo):
+1.  **[Geometric Angle Trisection Using the Intersection of a Parabola and Circular Arc](https://doi.org/10.5281/zenodo.17150541)** - The core method and proof.
+2.  **[Angle Trisection into n Equal Parts Using the Intersection of a Parabolic Curve and a Circular Arc](https://doi.org/10.5281/zenodo.15780923)** - Generalization to *n*-section. 
+3.  **[Dividing an Angle into 3 or n Equal Parts Using Euclidean Tools](https://doi.org/10.5281/zenodo.18383478)** - A classical construction approach. 
 
-- Tool: GeoGebra (HTML export)
-- Author: Saeed Aliakbar Kavousi
-- Version: Final (July 2025)
+## 🔍 Features
+- **Step-by-Step Visualization:** Follow each geometric construction step interactively.
+- **Dynamic Adjustment:** Modify the initial angle and see the trisection update in real time.
+- **High Accuracy:** The model implements the exact algebraic formulation from the paper.
+- **Educational Tool:** Ideal for teachers, students, and enthusiasts to explore classical geometry problems.
 
-## 🌐 Live Demo
-
-👉 [Click here to open the interactive model](https://saeedaliali.github.io/angle-trisection-demo/)
+## 🛠️ How to Use
+1.  Open the **Live Demo** link above.
+2.  Use the **slider** to change the initial angle (∠AOD).
+3.  Click on the **checkboxes** in the "Construction Steps" panel to reveal/hide different stages of the method.
+4.  Drag points **A** or **D** to explore different configurations manually.
 
 ## 📄 License
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-CC BY-NC-ND 4.0 — You are free to share this work with attribution, but not for commercial use or modifications.
+## 👤 Author & Citation
+**Author:** Aliakbar Kavosi | Independent Researcher  
+**Contact:** [Kavosi.aliakbar@gmail.com](mailto:Kavosi.aliakbar@gmail.com)
 
-## 📬 Contact
-
-For feedback or collaboration:  
-📧 [Kavosi.aliakbar@gmail.com](mailto:Kavosi.aliakbar@gmail.com)
+If this model or the related papers contribute to your work, please consider citing the relevant Zenodo record(s).
