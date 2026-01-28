@@ -7,7 +7,7 @@ An interactive geometric construction demonstrating a novel method for the exact
 ## 📖 Related Academic Papers
 This interactive model accompanies the following research papers (published on Zenodo):
 1.  **[Geometric Angle Trisection Using the Intersection of a Parabola and Circular Arc](https://doi.org/10.5281/zenodo.17150541)** - The core method and proof.
-2.  **[Angle Trisection into n Equal Parts Using the Intersection of a Parabolic Curve and a Circular Arc](https://doi.org/10.5281/zenodo.15780923)** - Generalization to *n*-section. 
+2.  **[Angle Trisection into n Equal Parts Using the Intersection of a Parabolic Curve and a Circular Arc](https://doi.org/10.5281/zenodo.18391198)** - Generalization to *n*-section. 
 3.  **[Dividing an Angle into 3 or n Equal Parts Using Euclidean Tools](https://doi.org/10.5281/zenodo.18383478)** - A classical construction approach. 
 
 ## 🔍 Features
