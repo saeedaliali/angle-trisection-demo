@@ -9,14 +9,13 @@ Explore the full series of interactive constructions that accompany this researc
     *The core model for dividing an angle into three equal parts.*
 -   **🔢 Generalized n-Section:** [Live Demo](https://saeedaliali.github.io/angle-division-general)
     *Extends the method to divide an angle into any `n` equal parts.*
--   **✏️ Classical Construction (Euclidean Tools):** [Live Demo](https://saeedaliali.github.io/angle-classical-demo) *(Coming Soon)*
-    *A practical implementation using straightedge and compass concepts.*
+-   **✏️ Classical Construction (Euclidean Tools):** [Live Demo](https://saeedaliali.github.io/angle-classical-demo) *(Coming Soon) A practical implementation using straightedge and compass concepts.*
 	
 ## 📖 Related Academic Papers
 This interactive model accompanies the following research papers (published on Zenodo):
 1.  **[Geometric Angle Trisection Using the Intersection of a Parabola and Circular Arc](https://doi.org/10.5281/zenodo.17150541)** - The core method and proof.
 2.  **[Angle Trisection into n Equal Parts Using the Intersection of a Parabolic Curve and a Circular Arc](https://doi.org/10.5281/zenodo.18391198)** - Generalization to *n*-section. 
-3.  **[Dividing an Angle into 3 or n Equal Parts Using Euclidean Tools](https://doi.org/10.5281/zenodo.18383478)** - A classical construction approach. *(Coming Soon)*
+3.  **[Dividing an Angle into 3 or n Equal Parts Using Euclidean Tools](https://doi.org/10.5281/zenodo.18383478)** - *(Coming Soon)* A classical construction approach. 
 
 ## 🔍 Features
 - **Step-by-Step Visualization:** Follow each geometric construction step interactively.
